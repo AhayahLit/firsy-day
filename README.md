@@ -1,1 +1,1 @@
-# firsy-day-demo
+# firsy-day
